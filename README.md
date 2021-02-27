@@ -2,8 +2,6 @@
 
 ReSocial is an app that allows users to chat with one another within a range. The app also recommends users based on their interestes. Flutter is used for frontend with Firebase support at backend. A REST API serves ML model that is used in generating recommendations
 
-![alt text](https://pasteboard.co/JQgQG7p.jpg)
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
